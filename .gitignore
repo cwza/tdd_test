@@ -1,4 +1,5 @@
 .DS_Store
+.python-version
 db.sqlite3
 *.egg-info
 *.pot
